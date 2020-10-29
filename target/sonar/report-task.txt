@@ -1,0 +1,6 @@
+projectKey=tn.esprit:DemoIC
+serverUrl=http://localhost:9000
+serverVersion=7.4.0.18908
+dashboardUrl=http://localhost:9000/dashboard?id=tn.esprit%3ADemoIC
+ceTaskId=AXV2AgYcKG6p2cC1M0sh
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXV2AgYcKG6p2cC1M0sh
